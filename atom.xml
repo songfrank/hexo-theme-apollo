@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[HEXO THEME TEST]]></title>
+  <link href="http://joyceim.github.io/hexo-theme-apollo/atom.xml" rel="self"/>
+  <link href="http://joyceim.github.io/hexo-theme-apollo"/>
+  <updated>2014-09-11T17:03:57.914Z</updated>
+  <id>http://joyceim.github.io/hexo-theme-apollo/</id>
+  <author>
+    <name><![CDATA[admin]]></name>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[Images]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/images/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/images/</id>
+    <published>2014-06-11T16:04:19.000Z</published>
+    <updated>2014-06-11T17:28:01.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a image test post.</p>
+<p><img src="http://placehold.it/1200x150.png" alt="Caption 1"></p>
+<p><img src="http://placehold.it/900x1280.png" alt=""></p>
+<p><img src="http://placehold.it/300x200.png" alt="Small picture"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/notitle/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/notitle/</id>
+    <published>2014-06-11T16:03:29.000Z</published>
+    <updated>2014-06-11T16:44:02.000Z</updated>
+    <content type="html"><![CDATA[<p>This post doesn’t have a title. Make sure it’s accessible.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Excerpts]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/excerpts/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/excerpts/</id>
+    <published>2014-06-11T16:01:39.000Z</published>
+    <updated>2014-06-11T16:02:20.000Z</updated>
+    <content type="html"><![CDATA[<p>The following contents should be invisible in home/archive page.</p>
+<a id="more"></a>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, ex, suscipit fugiat consequatur blanditiis natus inventore mollitia quis nobis nemo voluptatem nisi repellat pariatur quos praesentium totam quo commodi iusto voluptates obcaecati corporis laboriosam officia consectetur numquam voluptas eligendi earum quidem eius perferendis omnis sequi aut rem veritatis sit error amet est. Vero architecto doloremque esse adipisci sequi. Ullam, error, facere, commodi, dolore hic illum assumenda dolorem nemo ratione quae soluta harum illo asperiores est blanditiis voluptatem beatae aut eum nesciunt explicabo. Animi, voluptate, totam, consequatur culpa eaque repellat quos ullam dolore nemo ipsa nobis assumenda accusamus quo! Dolorum, repellat, labore, aliquid praesentium eos excepturi similique minima nobis ex quos officiis aliquam magnam non voluptatem facere doloremque repellendus rem laudantium laboriosam atque minus id hic a dolorem molestiae temporibus saepe earum iusto in delectus ratione incidunt maxime alias neque natus suscipit perspiciatis et soluta totam cum deserunt accusantium dicta inventore voluptatibus vel quidem! Reiciendis, autem, enim et sed facere molestiae deleniti officia sequi amet itaque? Veritatis, commodi, labore, facilis aut totam quis quidem similique deserunt cum est mollitia iste accusamus nobis eaque optio ad error ab assumenda fugit omnis. Quae, nesciunt, ullam esse aperiam facilis cumque nihil perspiciatis eum aspernatur fugiat tenetur repellat doloribus eius quod sunt excepturi ducimus nulla magni recusandae dolores hic provident dignissimos dolorum accusantium incidunt cum illo quia odio quis harum! Debitis, nulla, similique, voluptatibus, temporibus aperiam expedita modi maxime exercitationem placeat velit ipsum eligendi. Debitis, officia, ipsum atque aliquid deleniti aliquam minus maxime reiciendis ratione ea unde dolorum ipsam saepe reprehenderit obcaecati repellendus tenetur voluptates vitae corporis sed quasi pariatur ad quas illo harum ut inventore! Veniam, eius, fuga, mollitia vero quas maiores esse labore distinctio libero commodi odio perspiciatis accusamus voluptatibus at dolorem ipsa cupiditate ea id nam quam sed possimus sequi facere blanditiis.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Videos]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/videos/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/videos/</id>
+    <published>2014-06-11T15:39:16.000Z</published>
+    <updated>2014-06-11T16:00:57.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a video test post.</p>
+<h3 id="Youtube">Youtube</h3>
+<div class="video-container"><iframe src="//www.youtube.com/embed/AN72_SVbETA" frameborder="0" allowfullscreen></iframe></div>
+
+<h3 id="Vimeo">Vimeo</h3>
+<div class="video-container"><iframe src="//player.vimeo.com/video/66632933" frameborder="0" allowfullscreen></iframe></div>]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Gallery post]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/gallery-post/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/gallery-post/</id>
+    <published>2014-06-11T15:32:48.000Z</published>
+    <updated>2014-06-11T15:35:29.000Z</updated>
+    <content type="html"><![CDATA[<p>This post contains 4 photos.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Tag Plugins]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/tag-plugins/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/tag-plugins/</id>
+    <published>2014-06-11T14:05:47.000Z</published>
+    <updated>2014-06-11T15:31:26.000Z</updated>
+    <content type="html"><![CDATA[<p>This post is used for testing tag plugins. See <a href="http://hexo.io/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.</p>
+<h2 id="Block_Quote">Block Quote</h2>
+<h3 id="Normal_blockquote">Normal blockquote</h3>
+<blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p>
+</blockquote>
+
+
+<h3 id="Quote_from_a_book">Quote from a book</h3>
+<blockquote>
+
+<p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
+
+
+<h3 id="Quote_from_Twitter">Quote from Twitter</h3>
+<blockquote>
+
+<p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="external">http://devdocs.io</a></p>
+<footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="external">twitter.com/devdocs/status/&hellip;</a></cite></footer></blockquote>
+
+
+<h3 id="Quote_from_an_article_on_the_web">Quote from an article on the web</h3>
+<blockquote>
+
+<p>Every interaction is both precious and an opportunity to delight.</p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
+
+
+<h2 id="Code_Block">Code Block</h2>
+<h3 id="Normal_code_block">Normal code block</h3>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="function_or_atom">alert</span>(‘<span class="variable">Hello</span> <span class="variable">World</span><span class="exclamation_mark">!</span>’);</div></pre></td></tr></table></figure>
+
+<h3 id="With_caption">With caption</h3>
+<figure class="highlight"><figcaption><span>Array.map</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">array</span>.<span class="keyword">map</span>(callback[, thisArg])</div></pre></td></tr></table></figure>
+
+<h3 id="With_caption_and_URL">With caption and URL</h3>
+<figure class="highlight"><figcaption><span>.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">.compact([<span class="number">0</span>, <span class="number">1</span>, <span class="keyword">false</span>, <span class="number">2</span>, ‘’, <span class="number">3</span>]);</div><div class="line"><span class="output"><span class="status">=&gt;</span> [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]</span></div></pre></td></tr></table></figure>
+
+<h3 id="Specify_language">Specify language</h3>
+<figure class="highlight objc"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[rectangle setX: <span class="number">10</span> y: <span class="number">10</span> width: <span class="number">20</span> height: <span class="number">20</span>];</div></pre></td></tr></table></figure>
+
+<h3 id="Gist">Gist</h3>
+<script src="https://gist.github.com/996818.js?file=test.diff"></script>
+
+<h3 id="jsFiddle">jsFiddle</h3>
+<iframe width="100%" height="300" src="http://jsfiddle.net/ccWP7/embedded/js,resources,html,css,result/light" frameborder="0" allowfullscreen></iframe>
+
+<h2 id="Pullquote">Pullquote</h2>
+<h3 id="Left">Left</h3>
+<blockquote class="pullquote left">
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</blockquote>
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus molestie arcu, et fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum feugiat egestas. Suspendisse elementum, velit eu consequat consequat, augue lorem dapibus libero, eget pulvinar dolor est sit amet nulla. Suspendisse a porta tortor, et posuere mi. Pellentesque ultricies, mi quis volutpat malesuada, erat felis vulputate nisl, ac congue ante tortor ut ante. Proin aliquam sem vel mauris tincidunt, eget scelerisque tortor euismod. Nulla tincidunt enim nec commodo dictum. Mauris id sapien et orci gravida luctus id ut dui. In vel vulputate odio. Duis vel turpis molestie, scelerisque enim eu, lobortis eros. Cras at ipsum gravida, sagittis ante vel, viverra tellus. Nunc mauris turpis, elementum ullamcorper nisl pretium, ultrices cursus justo. Mauris porttitor commodo eros, ac ornare orci interdum in. Cras fermentum cursus leo sed mattis. In dignissim lorem sem, sit amet elementum mauris venenatis ac.</p>
+<h3 id="Right">Right</h3>
+<blockquote class="pullquote right">
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</blockquote>
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus molestie arcu, et fringilla mauris placerat ac. Nullam luctus bibendum risus. Ut cursus sed ipsum feugiat egestas. Suspendisse elementum, velit eu consequat consequat, augue lorem dapibus libero, eget pulvinar dolor est sit amet nulla. Suspendisse a porta tortor, et posuere mi. Pellentesque ultricies, mi quis volutpat malesuada, erat felis vulputate nisl, ac congue ante tortor ut ante. Proin aliquam sem vel mauris tincidunt, eget scelerisque tortor euismod. Nulla tincidunt enim nec commodo dictum. Mauris id sapien et orci gravida luctus id ut dui. In vel vulputate odio. Duis vel turpis molestie, scelerisque enim eu, lobortis eros. Cras at ipsum gravida, sagittis ante vel, viverra tellus. Nunc mauris turpis, elementum ullamcorper nisl pretium, ultrices cursus justo. Mauris porttitor commodo eros, ac ornare orci interdum in. Cras fermentum cursus leo sed mattis. In dignissim lorem sem, sit amet elementum mauris venenatis ac.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[google.com]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/link-post-without-title/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/link-post-without-title/</id>
+    <published>2014-06-11T13:58:20.000Z</published>
+    <updated>2014-06-11T13:59:01.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open <a href="http://google.com" target="_blank" rel="external">Google</a> in a new tab or window.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[日本語テスト]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/japanese/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/japanese/</id>
+    <published>2014-06-11T13:54:59.000Z</published>
+    <updated>2014-06-11T13:56:17.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a Japanese test post.</p>
+<p>私も多数時々その発展通りというつもりのために離さでる。もし今が濫用院はもうほんの教育ましたじゃへ云っがしまっだをは学習通り越したないて、そうには考えんないなかっで。</p>
+<blockquote>
+<p>存在を当然年をきなて、学校のモーニング英国驚という同人は立派自由を困る圏外うですです。実際非常に思っ他であるのに、または米国大森くらい地震がしで富はもっだない。</p>
+</blockquote>
+<p>時々嘉納君を安心畸形たった失敗で寄ったがたその義務何か妨害をというお経験ないたたたば、こうした一生は私か人権利を決するから、大森さんののに縁のそこをいくら実意味とありと私箸が実標榜がしように余計お脱却を思っうたから、どうしても何しろ関係をきめですていた事を受けんで。もっともしかしお主義に違いのは全く邪と入っでしょと、この画のも向いだがといった自分が突き抜けているですな。その時茫然の時その作物はそれごろに失っないかと岡田君があるなりた、文学の直接うという実満足たたですば、力のために先に今日までの教授にその間始めでみけれども、そうの十一月が構うてこのうちにけっして知れなけれでしと見えなけれ気なて、下らないですたてまだご秩序おりれ訳ないたです。たとえば文学か面倒か欠乏より引き離すでて、事実末会員にできるているましためで実講演の今を云っないです。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[中文測試]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/chinese/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/chinese/</id>
+    <published>2014-06-11T13:50:37.000Z</published>
+    <updated>2014-06-11T13:53:24.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a Chinese test post.</p>
+<p>的要動個吃熱言十想工黃法和什得由主上中邊話叫！又口勢？</p>
+<p>續學老中過無城故比有高……人明會登光發人自和，大親合來，了息黑最著。留的學人人有事……身全四任大他專盡經花語的委種越散生創外女事在本北！史動風……美式此年，的入省眼反……水照觀公心沒時近狀我，看的品放要此點大構我大和成所出會每個的不……場路策念法所：再連不呢黨年，孩下效程臺以……吃的前能高與開花這下人於未裡覺你我照。</p>
+<p>結常室生因出年界……沒斷保環如品！論有神，藝友害期小能條地或時的省有外念怎體得題五理孩其照實不兒上詩你技但管，多兒告提資：到師軍中他所！升童紅我生魚一飛人作長自影人一？常動足必因亞了。水到器晚有兩，於喜治另常讓世童各程主必對處裡，生為答在子臺了，子性容已……他緊我愛花它提那類工上，想聽調……深雖的身！須像案變隊大訴府人樣她生是高土快日聲論質風初家被著人心現到教從等公以每費頭說從或音布不卻早！大雄有水起水明果你話在小心特安師；備的影來中們原，新來氣西。</p>
+<p>因然致了媽邊開？</p>
+<blockquote>
+<p>經在排不制精花院然分校房該地至原今自的國費家，一土天知平、大球海司家，是或長一下來。</p>
+</blockquote>
+<p><em>From <a href="http://www.richyli.com/tool/loremipsum/" target="_blank" rel="external">亂數假文產生器 - Chinese Lorem Ipsum</a></em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/long-title/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/long-title/</id>
+    <published>2014-06-11T13:49:11.000Z</published>
+    <updated>2014-06-11T13:49:28.000Z</updated>
+    <content type="html"><![CDATA[<p>This post has a long title. Make sure the title displayed right.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Categories]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/categories/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/categories/</id>
+    <published>2014-06-11T12:56:19.000Z</published>
+    <updated>2014-06-11T17:38:09.000Z</updated>
+    <content type="html"><![CDATA[<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>
+]]></content>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/categories/Category-1/" term="Category 1"/>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/categories/Category-1/Category-2/" term="Category 2"/>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/categories/Category-1/Category-2/Category-3/" term="Category 3"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Link Post]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/link-post/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/link-post/</id>
+    <published>2014-06-11T12:53:27.000Z</published>
+    <updated>2014-06-11T12:55:12.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a link post. Clicking on the link should open <a href="http://google.com" target="_blank" rel="external">Google</a> in a new tab or window.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Tags]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/tags/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/tags/</id>
+    <published>2014-06-11T12:26:45.000Z</published>
+    <updated>2014-06-11T12:28:00.000Z</updated>
+    <content type="html"><![CDATA[<p>This post contains 3 tags. Make sure your theme can display all of the tags.</p>
+]]></content>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/tags/One/" term="One"/>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/tags/Two/" term="Two"/>
+    <category scheme="http://joyceim.github.io/hexo-theme-apollo/tags/Three/" term="Three"/>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Elements]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/elements/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/elements/</id>
+    <published>2014-06-11T10:58:30.000Z</published>
+    <updated>2014-06-11T17:35:29.000Z</updated>
+    <content type="html"><![CDATA[<p>The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.</p>
+<hr>
+<h1 id="h1">h1</h1>
+<h2 id="h2">h2</h2>
+<h3 id="h3">h3</h3>
+<h4 id="h4">h4</h4>
+<h5 id="h5">h5</h5>
+<h6 id="h6">h6</h6>
+<hr>
+<h2 id="Paragraph">Paragraph</h2>
+<p>Lorem ipsum dolor sit amet, <a href="#">test link</a> consectetur adipiscing elit. <strong>Strong text</strong> pellentesque ligula commodo viverra vehicula. <em>Italic text</em> at ullamcorper enim. Morbi a euismod nibh. <u>underline text</u> non elit nisl. <del>Deleted text</del> tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.</p>
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. <code>Sed erat diam</code>, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.</p>
+<blockquote>
+<p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
+</blockquote>
+<p>Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.</p>
+<hr>
+<h2 id="List_Types">List Types</h2>
+<h3 id="Definition_List_(dl)">Definition List (dl)</h3>
+<dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
+
+<h3 id="Ordered_List_(ol)">Ordered List (ol)</h3>
+<ol>
+<li>List item 1</li>
+<li>List item 2</li>
+<li>List item 3</li>
+</ol>
+<h3 id="Unordered_List_(ul)">Unordered List (ul)</h3>
+<ul>
+<li>List item 1</li>
+<li>List item 2</li>
+<li>List item 3</li>
+</ul>
+<h3 id="Table">Table</h3>
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="Misc_Stuff_-_abbr,_acronym,_sub,_sup,_etc-">Misc Stuff - abbr, acronym, sub, sup, etc.</h3>
+<p>Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <acronym title="National Basketball Association">NBA</acronym> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  <abbr title="Avenue">AVE</abbr></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://joyceim.github.io/hexo-theme-apollo/posts/hello-world/"/>
+    <id>http://joyceim.github.io/hexo-theme-apollo/posts/hello-world/</id>
+    <published>2014-06-11T07:23:38.000Z</published>
+    <updated>2014-06-11T12:55:46.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs" target="_blank" rel="external">documentation</a> to learn how to use.</p>
+]]></content>
+  </entry>
+</feed>
